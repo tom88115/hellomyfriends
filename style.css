@@ -2,8 +2,12 @@
 /* CSS Document */
 h1 {
 	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
-	color: #FFFFFF
+	color: #FFFFFF;
+	text-align: center;
 }
+
 body {
-	background-color: #F7C70C
+	background-color: #F7C70C;
 }
+
+
