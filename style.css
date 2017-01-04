@@ -1,14 +1,24 @@
 @charset "UTF-8";
 /* CSS Document */
 h1 {
-	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	font-family: nunito;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 100px;
+	font-style: normal;
+	font-weight: 300;
+	margin: auto;
 }
 
-body {
-	background-color: #F7C70C;
+html{
+	background: url(http://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 100%;
 }
-
-
+body{
+	display: flex;
+	height: 100%;
+}
